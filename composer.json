@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "The IceBB forum tapatalk plugin for FluxBB 2",
 	"keywords": ["forum", "laravel"],
-	"homepage": "http://fluxbb.org",
+	"homepage": "http://icebb.xaos-ia.com",
 	"license": "GPL-3.0+",
 	"authors": [
 		{
