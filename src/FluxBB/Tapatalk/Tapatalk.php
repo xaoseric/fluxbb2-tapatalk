@@ -17,13 +17,13 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  *
- * @category	FluxBB
- * @package		Tapatalk
- * @copyright	Copyright (c) 2008-2012 FluxBB (http://fluxbb.org)
+ * @category	IceBB
+ * @package     Tapatalk
+ * @copyright	Copyright (c) 2008-2012 XAOS Interactive (http://xaos-ia.com)
  * @license		http://www.gnu.org/licenses/gpl.html	GNU General Public License
  */
  
-namespace FluxBB\Tapatalk;
+namespace IceBB\Tapatalk;
 
 use DB;
 use Eloquent;
