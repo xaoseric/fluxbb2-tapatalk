@@ -1,21 +1,21 @@
 {
-	"name": "fluxbb/tapatalk",
+	"name": "icebb/tapatalk",
 	"type": "library",
-	"description": "The FluxBB forum tapatalk plugin for FluxBB 2",
+	"description": "The IceBB forum tapatalk plugin for FluxBB 2",
 	"keywords": ["forum", "laravel"],
 	"homepage": "http://fluxbb.org",
 	"license": "GPL-3.0+",
 	"authors": [
 		{
-			"name": "Franz Liedke",
-			"email": "franz@fluxbb.org",
-			"homepage": "http://www.develophp.org",
+			"name": "Eric Hocking",
+			"email": "erich@xaos-ia.com",
+			"homepage": "http://xaos-ia.com",
 			"role": "Lead Developer"
 		}
 	],
 	"support": {
-		"email": "devs@fluxbb.org",
-		"irc": "irc://irc.freenode.org/fluxbb"
+		"email": "devs@xaos-ia.com",
+		"irc": "irc://irc.freenode.org/icebb"
 	},
 	"require": {
 		"php": ">=5.3.0",
@@ -28,7 +28,7 @@
 			"src/migrations"
 		],
 		"psr-0": {
-			"FluxBB\\Tapatalk": "src"
+			"IceBB\\Tapatalk": "src"
 		}
 	},
 	"minimum-stability": "dev"
