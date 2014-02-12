@@ -1,8 +1,6 @@
 <?php
 /**
- * FluxBB - fast, light, user-friendly PHP forum software
- * Copyright (C) 2008-2012 FluxBB.org
- * based on code by Rickard Andersson copyright (C) 2002-2008 PunBB
+ * Package ported from IceBB for use with FluxBB
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -20,7 +18,7 @@
  * @category	IceBB
  * @package     Tapatalk
  * @copyright	Copyright (c) 2008-2012 XAOS Interactive (http://xaos-ia.com)
- * @license		http://www.gnu.org/licenses/gpl.html	GNU General Public License
+ * @license	http://www.gnu.org/licenses/gpl.html	GNU General Public License
  */
  
 namespace IceBB\Tapatalk;
